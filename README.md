@@ -1,4 +1,6 @@
 # Fitness Exercises App - Projeto Profissional
+# Projeto na vercel: https://cyclone-fit.vercel.app/
+[CycloneFit](https://cyclone-fit.vercel.app/)
 ## Visão Geral
 
 Este projeto é uma aplicação moderna de exercícios físicos desenvolvida com React, que utiliza duas APIs distintas para fornecer uma experiência completa e interativa para os usuários. Com mais de 641.100 visualizações desde o seu lançamento em 11 de junho de 2022, este projeto é uma referência para desenvolvedores web que desejam aprender a integrar APIs em suas aplicações.
